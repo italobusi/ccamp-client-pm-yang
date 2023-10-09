@@ -21,6 +21,10 @@ venue:
 
 author:
   -
+    name: Chaode Yu
+    org: Huawei Technologies
+    email: yuchaode@huawei.com
+  -
     name: Haomian Zheng
     org: Huawei Technologies
     street: H1, Huawei Xiliu Beipo Village, Songshan Lake
@@ -47,10 +51,6 @@ author:
     email: oscar.gonzalezdedios@telefonica.com
 
 contributor:
-  -
-    name: Chaode Yu
-    org: Huawei Technologies
-    email: yuchaode@huawei.com
 
 normative:
 
