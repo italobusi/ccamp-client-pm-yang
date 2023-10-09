@@ -2,10 +2,10 @@
 
 This is the working area for the individual Internet-Draft, "A YANG Data Model for Client Signal Performance Monitoring".
 
-* [Editor's Copy](https://italobusi.github.io/ccamp-client-pm-yang/#go.draft-zheng-ccamp-client-pm-yang.html)
+* [Editor's Copy](https://haomianzheng.github.io/ccamp-client-pm-yang/#go.draft-zheng-ccamp-client-pm-yang.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-zheng-ccamp-client-pm-yang)
 * [Individual Draft](https://datatracker.ietf.org/doc/html/draft-zheng-ccamp-client-pm-yang)
-* [Compare Editor's Copy to Individual Draft](https://italobusi.github.io/ccamp-client-pm-yang/#go.draft-zheng-ccamp-client-pm-yang.diff)
+* [Compare Editor's Copy to Individual Draft](https://haomianzheng.github.io/ccamp-client-pm-yang/#go.draft-zheng-ccamp-client-pm-yang.diff)
 
 
 ## Contributing
