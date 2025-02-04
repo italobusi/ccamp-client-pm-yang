@@ -5,14 +5,14 @@
 CCAMP Working Group                                                C. Yu
 Internet-Draft                                                  H. Zheng
 Intended status: Standards Track                                 I. Busi
-Expires: 18 July 2025                                Huawei Technologies
+Expires: 8 August 2025                               Huawei Technologies
                                                                      TBD
                                                                         
                                                                 V. Lopez
                                                                    Nokia
                                                      O. Gonzalez de Dios
                                                               Telefonica
-                                                         14 January 2025
+                                                         4 February 2025
 
 
        A YANG Data Model for Client Signal Performance Monitoring
@@ -61,7 +61,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 18 July 2025.
+   This Internet-Draft will expire on 8 August 2025.
 
 Copyright Notice
 
