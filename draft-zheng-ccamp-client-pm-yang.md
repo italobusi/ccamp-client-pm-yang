@@ -23,10 +23,12 @@ author:
   -
     name: Yanxia Tan
     org: China Unicom
+    country: China
     email: tanyx11@chinaunicom.cn
   -
     name: Xiao Li
     org: Huawei Technologies
+    country: China
     email: lixiao33@huawei.com
   -
     name: Italo Busi
